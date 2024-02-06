@@ -346,7 +346,7 @@ hr{
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    min-width:660px;
+    min-width:560px;
     height:50vh;
     background-size:cover;
     background-position: center;
